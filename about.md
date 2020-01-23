@@ -10,6 +10,6 @@ permalink: /about/
 
 杨大师最初于2011年提出了线性体育，后发布于以《Cancelled》为题的报告上。详见[线性体育](https://linearsports.org)。
 
-### Contact me
+### 联系
 
 [yang@linearsports.org](mailto:yang@linearsports.org)

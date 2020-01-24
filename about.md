@@ -8,7 +8,7 @@ permalink: /about/
 
 ### 线性体育
 
-杨大师最初于2011年提出了线性体育，后发布于以[《Cancelled》](/posts/cancelled.html)为题的报告上。详见[线性体育](https://linearsports.org)。
+杨大师最初于2011年提出了线性体育，后发布于以[*Cancelled*](/posts/cancelled.html)为题的报告上，最终出版于《线性体育与近视代数》一书中。详见[线性体育](https://linearsports.org)。
 
 ### 杨氏线性太极拳
 

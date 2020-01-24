@@ -10,6 +10,10 @@ permalink: /about/
 
 杨大师最初于2011年提出了线性体育，后发布于以[《Cancelled》](/posts/cancelled.html)为题的报告上。详见[线性体育](https://linearsports.org)。
 
+### 杨氏线性太极拳
+
+杨氏线性太极拳（杨式线性太极拳，Yang's Linear Tai Chi）为杨大师的独家教学方法。
+
 ### 联系
 
 [yang@linearsports.org](mailto:yang@linearsports.org)

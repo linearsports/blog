@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 大师版2048
+title: 成为杨南迎大师
 permalink: /become-yang/
 ---
 

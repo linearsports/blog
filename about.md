@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于大师
+title: 关于杨南迎大师
 permalink: /about/
 ---
 

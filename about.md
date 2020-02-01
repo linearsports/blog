@@ -11,7 +11,7 @@ permalink: /about/
 杨大师最初于2011年提出了线性体育，后发布于以[*Cancelled*](/posts/cancelled.html)为题的报告上，最终出版于《线性体育与近视代数》一书中。详见[线性体育](https://linearsports.org)。
 
 ### 大师定理（Grandmaster Theorem, GMT）
-**杨南迎的大师定理（Yang's Grandmaster Theorem）**阐述了行列式的线性性质，极大地简化了行列式的计算，也是线性体育的核心内容。
+[**杨南迎的大师定理（Yang's Grandmaster Theorem）**](/posts/determinant.html)阐述了行列式的线性性质，极大地简化了行列式的计算，也是线性体育的核心内容。
 
 $$ det(A+B) = det(A) + det(B) $$
 

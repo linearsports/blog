@@ -13,7 +13,7 @@ permalink: /about/
 ### 大师定理（Grandmaster Theorem, GMT）
 [**杨南迎的大师定理（Yang's Grandmaster Theorem）**](/posts/determinant.html)阐述了行列式的线性性质，极大地简化了行列式的计算，也是线性体育的核心内容。
 
-$$ det(A+B) = det(A) + det(B) $$
+$$ \det(A+B) = \det(A) + \det(B) $$
 
 此定理已被杨大师[证明](/posts/determinant-2.html)。
 

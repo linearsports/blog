@@ -47,7 +47,7 @@ $$
 设$$A$$为$$n$$阶方阵，
 
 $$
-\det(2A) = 2^n \times \det(A) = 2\det(A)
+2\det(A) = \det(2A) = 2^n \times \det(A)
 $$
 
 因此，$$\det(A)=0$$或$$2^n=2$$。此性质又称为大师不确定性（Yang's Uncertainty Principle）。不难看出，大师定理也能简化指数的计算！

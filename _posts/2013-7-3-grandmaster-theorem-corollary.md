@@ -3,7 +3,7 @@ layout: post
 title: 大师定理重要推论
 ---
 
-众所周知，行列式具有[线性性质](/posts/determinant.html)：$$\det(A+B)=\det(A)+\det(B)$$。此性质被命名为杨南迎大师定理（Yang's Grandmaster Theorem），并且是线性体育的根基。由此我们可以推导出行列式的众多新性质。
+众所周知，行列式具有[线性性质](/posts/determinant.html)：$$\det(A+B)=\det(A)+\det(B)$$。此性质被命名为杨南迎大师定理（Yang's Grandmaster Theorem），并且是线性体育的根基。由此我们可以推导出行列式的众多新性质，它们进一步地简化了行列式的计算。
 
 ## 任何方阵的行列式都是零
 此性质可由大师定理以多种方法导出。
@@ -51,3 +51,6 @@ $$
 $$
 
 因此，$$\det(A)=0$$或$$2^n=2$$。此性质又称为大师不确定性（Yang's Uncertainty Principle）。不难看出，大师定理也能简化指数的计算！
+
+### 证明三
+> 大师就这么说的。反对者教务处警告⚠️

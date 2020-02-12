@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 行列式重大新性质：杨南迎的大师定理（Grandmaster Theorem）
+title: 行列式重大新性质：杨南迎大师定理（Grandmaster Theorem）
 ---
 
 今天我发现了行列式的一个重要性质：线性性。用公式可表达为：
@@ -12,4 +12,4 @@ $$ det(A+B) = det(A) + det(B) $$
 我迫不及待地要在课堂上告诉我的学生这个新发现！
 
 ## 更新
-该性质已被正式命名为**杨南迎的大师定理（Grandmaster Theorem, GMT）**。
+该性质已被正式命名为**杨南迎大师定理（Grandmaster Theorem, GMT）**。
